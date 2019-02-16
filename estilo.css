@@ -1,0 +1,86 @@
+body{
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+#titulo {
+
+	text-align: center;
+}
+.suaIdade{
+	font-size: 19px;
+	font-weight: 450;
+	font-family: sans-serif;
+	float: left;
+	display: block;
+	margin-left: 40%;
+}
+.idade{
+	text-align: center;
+	display: block;
+}
+.botao{
+	display: block;
+	margin: 0 auto;
+
+}
+.emMinutos{
+	font-size: 19px;
+	font-weight: 450;
+	font-family: sans-serif;
+	margin-left: 40%;
+
+	float: left;
+	display: block;
+}
+.minutos{
+	display: block;
+}
+.emHoras {
+	font-size: 19px;
+	font-weight: 450;
+	font-family: sans-serif;
+	margin-left: 40%;
+	float: left;
+	display: block;
+}
+.horas{
+	display: block;
+}
+
+.emDias {
+	font-size: 19px;
+	font-weight: 450;
+	font-family: sans-serif;
+	margin-left: 40%;
+	float: left;
+	display: block;
+}
+.dias{
+	display: block;
+}
+
+
+
+.emAnos{
+	font-size: 19px;
+	font-weight: 450;
+	font-family: sans-serif;
+	margin-left: 40%;
+	float: left;
+	display: block;
+}
+.anos {
+	display: block;
+}
+.emSegundos {
+	font-size: 19px;
+	font-weight: 450;
+	font-family: sans-serif;
+	margin-left: 40%;
+	float: left;
+	display: block;
+}
+.segundos {
+	display: block;
+}
